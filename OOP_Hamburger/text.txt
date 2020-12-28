@@ -1,0 +1,5 @@
+﻿ilk oalrak hamburgerler menusu iicn bir class 
+Extra malzemler icin bir class
+Siparis sistemi icin bir class
+Ve hamburger menusu ile extramalzemlerin miras lacagi iki ozellik icin bir BaseEntity classi acariz
+Boyutlandirm icin enum kullanicaz
